@@ -1,1 +1,1 @@
-# https://gosamples.dev/json-to-csv/
+# https://go.dev/doc/tutorial/web-service-gin

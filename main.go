@@ -1,12 +1,12 @@
 package main
 
+// https://go.dev/doc/tutorial/web-service-gin
+
 import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
 )
-
-// https://go.dev/doc/tutorial/web-service-gin
 
 // album represents data about a record album.
 type album struct {

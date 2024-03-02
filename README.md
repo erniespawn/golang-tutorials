@@ -5,12 +5,13 @@ Format syntax for your README file [github doc](https://docs.github.com/en/get-s
 Things we want to cover in this repo.
 
 ```
-1. Gin-gonic API 
-   - open file CSV, JSON
+A. Gin-gonic API 
+   - Convert JSON to CSV in Go (json-csv)
+   - open and close file
    - cover most gin-gonic
    - using mysql db 
 
-2. Beanstalk
+B. Beanstalk
 
-3. Certificate generate with lets encrypt 
+C. Certificate generate with lets encrypt 
 ```

@@ -17,3 +17,13 @@ B. Beanstalk
 
 C. Certificate generate with lets encrypt 
 ```
+
+
+
+```azure
+Cheat sheet
+https://zerotomastery.io/cheatsheets/golang-cheat-sheet/
+
+
+
+```

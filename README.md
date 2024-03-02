@@ -2,6 +2,8 @@
 
 Format syntax for your README file [github doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+Directory = /Users/kennycheung/GolandProjects/golang-tutorials
+
 Things we want to cover in this repo.
 
 ```

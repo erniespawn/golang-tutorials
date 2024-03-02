@@ -35,3 +35,5 @@ https://zerotomastery.io/cheatsheets/golang-cheat-sheet/
 ![sheeet](go-cheat-sheet.pdf)
 
 xfun::embed_file("go-cheat-sheet.pdf")
+
+![](go-cheat-sheet.pdf)

@@ -6,9 +6,9 @@ Things we want to cover in this repo.
 
 ```
 A. Gin-gonic API 
-   - Convert JSON to CSV in Go (json-csv)
+   - Convert JSON to CSV in Go  (lesson1-json-csv)
+   - web-service-gin            (lesson2-gin-gonic)
    - open and close file
-   - cover most gin-gonic
    - using mysql db 
 
 B. Beanstalk

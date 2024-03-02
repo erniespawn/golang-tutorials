@@ -20,18 +20,7 @@ Things we want to cover in this repo.
 
 3. Certificate generate with lets encrypt
 
-```
-A. Gin-gonic API 
-   - Convert JSON to CSV in Go  (lesson1-json-csv)
-   - web-service-gin            (lesson2-gin-gonic)
-   - json open and close file   (lesson3-json-open)
-   - using mysql db 
-   
 
-B. Beanstalk
-
-C. Certificate generate with lets encrypt 
-```
 
 
 
@@ -42,3 +31,5 @@ https://zerotomastery.io/cheatsheets/golang-cheat-sheet/
 
 
 ```
+
+![sheeet](go-cheat-sheet.pdf)

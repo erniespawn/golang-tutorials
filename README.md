@@ -12,6 +12,7 @@ Things we want to cover in this repo.
      - Web-service-gin           [lesson2-gin-gonic](https://github.com/erniespawn/golang-tutorials/tree/lesson2-gin-gonic)
      - json open and close file  [lesson3-json-open](https://github.com/erniespawn/golang-tutorials/tree/lesson3-json-open)
      - Marshal and Unmarshal     [lesson4-marshal](https://github.com/erniespawn/golang-tutorials/tree/lesson4-marshal)
+     - Cheat sheet Testing       [lessonx-testing](https://github.com/erniespawn/golang-tutorials/tree/lessonx-testing)
      - using mysql db
 
 
